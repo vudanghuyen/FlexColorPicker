@@ -29,7 +29,7 @@
 import UIKit
 
 private let colorPickerThumbViewDiameter: CGFloat = 28
-private let defaultWideBorderWidth: CGFloat = 1
+private let defaultWideBorderWidth: CGFloat = 2
 private let defaultExpandedUpscaleRatio: CGFloat = 1.6
 private let expansionAnimationDuration = 0.3
 private let collapsingAnimationDelay = 0.1
